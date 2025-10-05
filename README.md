@@ -44,3 +44,5 @@ npm install && npm run build
 - [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets) – address book used in Tonkeeper wallet
 - [menschee/tonscanplus](https://github.com/menschee/tonscanplus) – alternative address book
 
+
+<!-- Auto-update: 2025-10-05T14:46:06.956862 -->
